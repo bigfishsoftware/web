@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Big Fish Software</title>
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="http://bigfishsoftware.hr/favicon.png" rel="icon" type="image/png" />
+    <style>
+        body { font-family: 'Open Sans', sans-serif; margin: 0 } 
+        a { color: #0E3B7D }
+        .logo { margin: auto; margin-top: 100px; width: 282px }
+        .strip { background: #188CB8; color: white; margin: 40px 0px; text-align: center; padding: 20px }
+        .strip a { color: white; text-decoration: none }
+        .legal { font-size: smaller; width: 90%; text-align: center; margin: auto; color: grey }
+        #legal-long { display: none }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <img src="bigfish.png" alt="Big Fish">
+    </div>
+
+    <div class="strip">
+        <p>Developing versatile business solutions</p>
+        <p><a href="mailto:info@bigfishsoftware.hr">info@bigfishsoftware.hr</a></p>
+    </div>
+
+    <div class="legal" id="legal-short">
+        Big Fish Software d.o.o.<br />
+        Zagreb, Croatia<br />
+        <a href="#" id="show-details">show details</a>
+    </div>
+
+    <div class="legal" id="legal-long">
+        <p>
+            <b>Big Fish Software</b> d.o.o. za računalne djelatnosti<br/>
+            Savska cesta 13<br/>
+            10000 Zagreb
+        </p>
+        <p>
+            Društvo je registrirano pri Trgovačkom sudu u Zagrebu.<br />
+            MBS: 080905639<br />
+            OIB: 93985308350<br />
+            Račun za redovno poslovanje društva još nije otvoren.<br />
+            Temeljni kapital: 20.000 kn uplaćen u cijelosti.<br />
+            Član društva: Ivan Habunek
+        </p>
+    </div>
+
+    <script type="text/javascript">
+        var more = document.getElementById('show-details');
+        more.addEventListener('click', function(event) {
+            document.getElementById('legal-long').style.display = 'block';
+            document.getElementById('legal-short').style.display = 'none';
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
