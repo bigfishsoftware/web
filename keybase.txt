@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/ihabunek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bigfishsoftware.hr
+  * I am ihabunek (https://keybase.io/ihabunek) on keybase.
+  * I have a public key with fingerprint 66DA B78A 4C4F 0D9B 00F5  F179 D625 F8FA ED82 13F4
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "66dab78a4c4f0d9b00f5f179d625f8faed8213f4",
+            "host": "keybase.io",
+            "key_id": "D625F8FAED8213F4",
+            "uid": "9f658e9dc64024c20cebf37eb1286400",
+            "username": "ihabunek"
+        },
+        "merkle_root": {
+            "ctime": 1399371900,
+            "hash": "036218d7570d1c63a098329d797fcdad0009b21902d881ff182110bd35b5744df37a94b991ba66c7917b20fe8e005cbea48de0ab1af2d13d68993bba6386d9dd",
+            "seqno": 5024
+        },
+        "service": {
+            "hostname": "bigfishsoftware.hr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399372045,
+    "expire_in": 157680000,
+    "prev": "752193c897f898ed55ffc3776531c53020a2f3f2c920e4543e16325ddc981e03",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn1MVWUcxy8XdMB2SQfiFJfsrKEsoue8n3ONBYrQAhNTTJJxOec8z+GeuNwL
+5x5eboAmFEgUOEVHhJjYpoOGREohA6NQSaK0NnlLUKYYjWTAojYTO4fRyv+el8/v
++/t+f89zxOJtMnsNdEm9VtB53Kt/SjTttndYCjHRBT2YtRCTHApyasbKKWQhzIpl
+Io8ouFGk4gp1uiCKfMsdusxEYHlIdSsup06BSDKSwIojDNwolhVnBlKzVcXQwhgG
+CiLLCZREyQDyIgAyLeMsDxmCljlZQJAjcFKmdEm7y6091RVb0rQpUD+N1fk4Li5m
+e6zBxxl87tIFLzM0h3goMRQgKIkAEhJlkkUiTnD6ETBAN1KXIyl2Qcx1okzDbxZS
+Mx3IprpcS6ElTTEQnOR5ksV5AHRHgttuJCQZAucgS7MA4hJDCoDnSIKHLM/KEhQg
+AIAXCb2EgByHyzKuW8SBCElapFmKgrodgadEnsdFgWEklsdZkQAy4hAAtCQigeIg
+AoKICzIBcRIynG5B1FmSYyAPoR7BjXKcLsxK6xGLjZ2ap0jIcG0MbTmbqGTIitvu
+dslavqCiSLuqF2arLs0luRz6vV3Tsq1GcM2TbfBt+Ui0LUvZRMUJ9Yf7/8viOvrU
+UAhA0REYKshWVGRTDIJmGU5PD4w+KE/XZGl9DqTE6ZPheA5BmpZliWRZhiZxiSYB
+AQRCJmVC4gmAKJoiEc6QBA2hxHM4AuR/UXFcNypk6JpuJcMpaLkqwoorzBt8TF5m
+08oVZuPvmvz9Vv37of+6uco00pUZ6Ln1U4mlCTlQqH/UKcc9S+zEuf1l9ttdrb9u
+Gdo3Va74t8nRl+q/y6rmH1d0+dyhwnbRw2xfWERKzrq0usEEvDc0ed1j3wHF1Gf1
+rntl7vWLBWWTaavP9Zyev1L/28Biwq6tsenX/A+CC0UVVTUtjastnUTF6IaGu+FB
+P+597uGJ06es+WMdlb+E/WE5vhDuKK3erH0QmpR/eP03E6kl0WnMowHg90m00pzQ
+XnYfv5ee1J6yc9PgawfCsqy2wgvlgfG0x+fPPSl+QSv80va/8WBk/GbD9/XrBzvP
+L84dYS4qsR2OntU5mNfw7m/jqwrHterBy9vLZ9+ZLAXqk8M3GqbW2o7eT0yaLy89
+v9B8Mi9qrnzTtbPeEzEvp8Rt27HZ92pzTeqtvqbEh8GNc3xRU931bT0bx9aISenP
+tAeMayPhc5f/PlM7PXagZowpnOnjD+W9Xfrhg8CXtv7gGdXCP50Y/eyFQ203eG1H
+cMkXASmepMYYH+zg72/W2n3HaKr789nx668e+7ogueRFv5PUymSe3fdR1ol6JaRo
+aG1Jab/p6LF3916S35vLn61oCLttflQaUNXfMjxf2Dq9ZiLVIm35alTyY/a8XxPS
+bP54IGNjzt0vpzup1pnaKwNsy2TXwvNBjkqfoSc17qtN2d2VlXcW488UhwR3m37u
+laKYZ+sTpZmdDWf/AQ==
+=YPLg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ihabunek
+
+==================================================================
+
